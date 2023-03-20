@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ramais/static/css/main.9ab6af74.css",
-    "main.js": "/ramais/static/js/main.57724f7e.js",
+    "main.js": "/ramais/static/js/main.cfd566d1.js",
     "static/js/787.6b0cd3f3.chunk.js": "/ramais/static/js/787.6b0cd3f3.chunk.js",
     "index.html": "/ramais/index.html",
     "main.9ab6af74.css.map": "/ramais/static/css/main.9ab6af74.css.map",
-    "main.57724f7e.js.map": "/ramais/static/js/main.57724f7e.js.map",
+    "main.cfd566d1.js.map": "/ramais/static/js/main.cfd566d1.js.map",
     "787.6b0cd3f3.chunk.js.map": "/ramais/static/js/787.6b0cd3f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ab6af74.css",
-    "static/js/main.57724f7e.js"
+    "static/js/main.cfd566d1.js"
   ]
 }
